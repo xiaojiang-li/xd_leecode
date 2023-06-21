@@ -1,0 +1,29 @@
+{
+  "files.associations": {
+    "*.txt": "cmake",
+    "*.m": "matlab",
+    "ostream": "cpp",
+    "iostream": "cpp",
+    "vector": "cpp",
+    "chrono": "cpp",
+    "random": "cpp",
+    "limits": "cpp",
+    "tuple": "cpp",
+    "*.tcc": "cpp",
+    "bitset": "cpp",
+    "complex": "cpp",
+    "optional": "cpp",
+    "cmath": "cpp",
+    "iomanip": "cpp",
+    "iosfwd": "cpp",
+    "istream": "cpp",
+    "stdexcept": "cpp",
+    "streambuf": "cpp",
+    "typeinfo": "cpp",
+    "memory": "cpp",
+    "core": "cpp",
+    "*.txx": "cpp",
+    "unordered_map": "cpp",
+    "map": "cpp"
+  }
+}
